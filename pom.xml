@@ -11,7 +11,11 @@
 	<groupId>com.abhi</groupId>
 	<artifactId>crud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+<<<<<<< HEAD
 	<packaging>war</packaging>
+=======
+	
+>>>>>>> 01d299271627f64ded49a25bfe7a21c9c79e8329
 	<name>crud</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -55,6 +59,7 @@
 		</dependency>
 		
 		
+<<<<<<< HEAD
 		<dependency>
 			<groupId>io.springfox</groupId>
 			<artifactId>springfox-swagger2</artifactId>
@@ -69,6 +74,8 @@
 		 <scope>compile</scope>
 		</dependency>
 		
+=======
+>>>>>>> 01d299271627f64ded49a25bfe7a21c9c79e8329
 	</dependencies>
 
 	<build>
