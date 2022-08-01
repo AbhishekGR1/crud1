@@ -1,4 +1,4 @@
-package com.abhi.modelllllll; 
+package com.abhi.model; 
 import javax.persistence.Column; 
  
 
